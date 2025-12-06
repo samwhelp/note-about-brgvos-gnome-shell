@@ -14,7 +14,7 @@
 ## 主題
 
 * [微調腳本](#微調腳本)
-* [Gnome Shell Layout Switcher](#gnome-shell layout-switcher)
+* [Gnome Shell Layout Switcher](#gnome-shell-layout-switcher)
 * [字型](#字型)
 * [輸入法](#輸入法)
 * [佈景主題](#佈景主題)
